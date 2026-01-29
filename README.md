@@ -18,11 +18,27 @@ O objetivo principal é **consolidar conceitos**, acompanhar a evolução nos es
 
 ---
 
-projetos-dio/
-│ ├── classificador-nivel-heroi/
-│ │ ├── index.js
-│ │ └── README.md
-│ │
-│ └── calculadora-partidas-rankeadas/
-│ ├── index.js
-│ └── README.md
+## 📂 Desafios Concluídos
+
+Até o momento, este repositório contém os seguintes desafios desenvolvidos durante os cursos da **DIO (Digital Innovation One)**:
+
+
+### 🧙‍♂️ Classificador de Nível de Herói
+Desafio focado em lógica condicional, onde o nível de um herói é definido com base na sua quantidade de experiência (XP).
+
+**Conceitos praticados:**
+- Variáveis
+- Estruturas condicionais (`if / else`)
+- Operadores lógicos
+- Saída de dados no console
+
+---
+
+### 🎮 Calculadora de Partidas Rankeadas
+Desafio que utiliza funções para calcular o saldo de vitórias de um jogador e classificar seu nível ranqueado.
+
+**Conceitos praticados:**
+- Funções com parâmetros
+- Retorno de valores
+- Estruturas condicionais
+- Organização e reutilização de código
