@@ -18,3 +18,11 @@ O objetivo principal é **consolidar conceitos**, acompanhar a evolução nos es
 
 ---
 
+projetos-dio/
+│ ├── classificador-nivel-heroi/
+│ │ ├── index.js
+│ │ └── README.md
+│ │
+│ └── calculadora-partidas-rankeadas/
+│ ├── index.js
+│ └── README.md
