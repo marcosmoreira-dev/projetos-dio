@@ -10,7 +10,7 @@ O objetivo principal é **consolidar conceitos**, acompanhar a evolução nos es
 - Lógica de programação
 - Estruturas condicionais (`if / else`)
 - Estrutura Switch Case
-- Estruturas de repetição (for, while, do-while)
+- Estruturas de repetição (`for, while, do-while`)
 - Variáveis e operadores
 - JavaScript básico
 - Organização de projetos
@@ -40,5 +40,5 @@ Desafio que utiliza funções para calcular o saldo de vitórias de um jogador e
 **Conceitos praticados:**
 - Funções com parâmetros
 - Retorno de valores
-- Estruturas condicionais
+- Estruturas condicionais (`if / else`)
 - Organização e reutilização de código
