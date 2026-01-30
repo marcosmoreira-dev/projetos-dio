@@ -20,6 +20,6 @@ class Hero {
     }
 }
 
-const hero1 = new Hero ("Marcos", 21, "mago")
+const hero1 = new Hero ("Aragorn", 35, "guerreiro")
 hero1.attack ()
 
